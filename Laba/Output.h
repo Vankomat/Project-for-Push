@@ -4,6 +4,4 @@
 
 using namespace std;
 
-void output(const double& convertedAmount, const string& toCurrency) {
-    cout << "Конвертована сума: " << convertedAmount << " " << toCurrency << endl;
-}
+void output(const double& convertedAmount, const string& toCurrency);
